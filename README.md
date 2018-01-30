@@ -6,7 +6,7 @@
 
 ## Motivation
 
-In a nutshell, I had to desperately get up the bed to turn down the volume of a TV show episode I was watching online and that got me really mad at the universe. So I've built Clicker, a JavaScript application powered by [socket.io](https://socket.io/) and [React](https://reactjs.org/) – for fun and profit.
+In a nutshell, I had to desperately get out of the bed to turn down the volume of a TV show episode I was watching and that got me really mad at the universe. So I've built Clicker, a JavaScript application powered by [socket.io](https://socket.io/) and [React](https://reactjs.org/) – for fun and profit.
 
 ## How to setup your Clicker
 
