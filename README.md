@@ -118,6 +118,11 @@ See final script
 
 ✨ **Have fun!**
 
+## How it works
+I'll write a (hopefully fun) in-depth blog post on how it works on [my blog](https://diessi.ca/). For now, this might help you to get the flow:
+
+<img width="600" align="center" src="https://diessi.ca/media/2018/clicker-flow.jpg" alt="Clicker flow" />
+
 ## License
 
 MIT
