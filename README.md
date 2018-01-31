@@ -44,6 +44,8 @@ $ npm start
 
 Remember to set up the **server's external IP** environment variable (`REACT_APP_SERVER_IP`) in the `.env` file so Clicker will connect to it instead of `localhost`. After that, you should be able to use Clicker in any device connected your network, such as your smartphone!
 
+:warning: Since both servers are under HTTPS with self-signed certificates, make sure your browser trusts them so you don't get "insecure response" errors that may prevent the connection. You can assert that by going to `https://localhost:4001` and `https://localhost:3000` (replace `localhost` with the external IP if that applies).
+
 ### 3. set up in the target player 📺
 
 It's time to get the external player ready for Clicker! The website's player should react to the following events triggered by Clicker:
